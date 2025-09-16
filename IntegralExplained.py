@@ -100,7 +100,7 @@ class IntegralsExplained(Scene):
         else:
             self.play(Write(new_label), Write(riemann_sum_formula), FadeIn(rects), run_time=transition_time)
 
-        self.wait(0.5)
+        self.wait(0.7)
 
         # Store the last label, formula, and rectangles for the next update
         self.last_subdiv_label = new_label
