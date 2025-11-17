@@ -1,2 +1,2 @@
 # Integrals_Explained-animation!
-</1H>this project uses manim for the animations</1H>
+</H1>this project uses manim for the animations</H1>
